@@ -119,4 +119,4 @@ MIT License — feel free to use, modify and distribute.
 
 ---
 
-<p align="center">Built with 🐯 by <a href="https://github.com/TuraaCode">TuraaCode</a></p>
+<p align="center">Built by <a href="https://github.com/TuraaCode">TuraaCode</a></p>
